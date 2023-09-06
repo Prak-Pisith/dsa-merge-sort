@@ -1,5 +1,10 @@
 /* 
   Merge Sort Algorithm
+  TODO:
+    - Divide array into 2 subarrays
+    - Recursively divide each subarray into 2 subarrays till array has only 1 element
+    - Compare between left and right arrays, push smaller element to left
+    - Merge those divided arrays together
 */
 
 
